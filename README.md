@@ -8,7 +8,7 @@ git push origin :refs/tags/v1.0
 git branch -d branchName
 
 ## Delete a remote Git branch
-git push origin :branchName
+git push origin origin/branch_name
 
 
 ## Create branch via Tag
