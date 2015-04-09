@@ -1,4 +1,6 @@
-## local Git tag
+local Git tag
+-------------
+
 git tag -d v1.0
 
 ## Delete a remote Git tag
